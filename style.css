@@ -35,12 +35,11 @@ h1, h2, h3, h4, h5, h6, p, ul, li {
 }
 .card{
     display: flex;
-    width: 200px;
+    width: 300px;
     height: 400px;
     margin: 15px;
-    border: solid 1px rgb(56, 56, 56);
     border-radius: 5px;
-    box-shadow: 0 0 10px 0 rgb(59, 59, 59);
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.507);
     transition: 0.2s;
 }
 .card:hover{
